@@ -1,4 +1,4 @@
-# $HELO 🙃
+# HELO/EHLO 🙃
 <img src="https://i.imgur.com/A1QvF5V.png" /> <br />
 Oh wait this isn't FNAF 6 <br /> <br />
 
