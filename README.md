@@ -3,5 +3,5 @@
 Oh wait this isn't FNAF 6 <br /> <br />
 
 Oi! I'm Justin! I goof around here a bit. <br />
-I'm passionate in Digital Forensics and using Data Science/Technology to influence Public Policy 🥳. <br />
+I'm passionate in Cybersecurity (Forensics) and using Data Science/Technology to influence Public Policy 🥳. <br />
 Nice to meet ya 🎺
